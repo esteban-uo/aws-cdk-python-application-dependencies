@@ -1,0 +1,10 @@
+{
+  "name": "aws-cdk-python-application-dependencies",
+  "version": "1.0.0",
+  "main": "",
+  "author": "Esteban Uscanga Olea",
+  "license": "MIT",
+  "scripts": {
+    "deploy":"cd aws && cdk deploy"
+  }
+}

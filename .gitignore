@@ -1,0 +1,12 @@
+# vscode
+.vscode/
+
+# python
+__pycache__/
+
+# application
+.build
+.env
+
+# cdk 
+cdk.out/
