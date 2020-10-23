@@ -12,5 +12,5 @@ virtualenv .env && source .env/bin/activate && \
 
 ## Deploy
 ```
-npm run deploy
+AWS_ACCOUNT_ID=<UPDATE> AWS_DEFAULT_REGION=<UPDATE> npm run deploy
 ```
